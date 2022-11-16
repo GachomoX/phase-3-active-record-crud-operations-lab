@@ -24,7 +24,8 @@ Start the lab by running `learn test` or keep reading for more instructions.
 
 Try using a Rake task to create your migration file:
 
-```console
+``
+`console
 $ bundle exec rake db:create_migration NAME=create_movies
 ```
 
@@ -128,4 +129,4 @@ are class methods (`.`).
 
 - [Active Record Query Interface][querying]
 
-[querying]: https://guides.rubyonrails.org/active_record_querying.html
+[querying]: 
